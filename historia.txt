@@ -4,8 +4,4 @@ todo lo que coloquemos veremos si se aplicaron los cambios necesarios
 o si la fregamos y no valio 
 :)
 
-Parece algo facil pero se me ha complicado mucho aprender a usar git, pero espero lograrlo y usarlo de la manera profesional
-
-la verdad lo mas facil ya hemos pasado solo espero lo mas complicado como crear ramas separadas del proyecto original 
-
-espero terminar el curso para poner en practica en  mis propios proyectos para no tener tantas versiones 
+Vamos a aprender como funciona esta aplicacion de control de versiones 
