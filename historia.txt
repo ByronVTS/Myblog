@@ -4,4 +4,4 @@ todo lo que coloquemos veremos si se aplicaron los cambios necesarios
 o si la fregamos y no valio 
 :)
 
-
+Parece algo facil pero se me ha complicado mucho aprender a usar git, pero espero lograrlo y usarlo de la manera profesional
