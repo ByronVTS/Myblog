@@ -1,6 +1,16 @@
 body{
-    background-color: rgb(185, 246, 226);
+    background-color: rgb(140, 195, 138);
     font-family: 'Times New Roman', Times, serif;
     color: rgb(238, 8, 8);
     text-align: center;
+}
+.container{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(193, 236, 177);
+    width: 70%;
+    /* Formas de centrar la cajita */
+    margin: 0 auto;
+}
+.container h1{
+    font-size: 50px;
 }
