@@ -4,13 +4,24 @@ body{
     color: rgb(238, 8, 8);
     text-align: center;
 }
+.cabecera{
+    background-color:rgba(195, 119, 20, 0.554);
+    height: 1.5rem;
+}
 .container{
     border: 1px solid rgb(0, 0, 0);
-    background-color: rgb(193, 236, 177);
+    background-color: rgb(233, 250, 83);
     width: 70%;
     /* Formas de centrar la cajita */
     margin: 0 auto;
+    border-radius: 15px;
 }
 .container h1{
     font-size: 50px;
+    color: rgb(20, 225, 157);
+}
+.post p:nth-child(5){
+    color: magenta;
+    width: 70%;
+    margin: 0 auto;
 }
