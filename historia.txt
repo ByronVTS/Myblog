@@ -1,0 +1,7 @@
+Es un texto para la clase de uso de aplicacion de control de versiones de git y github+
+
+todo lo que coloquemos veremos si se aplicaron los cambios necesarios 
+o si la fregamos y no valio 
+:)
+
+
