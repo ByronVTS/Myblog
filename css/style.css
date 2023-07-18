@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(140, 195, 138);
+    background-color: rgb(64, 69, 64);
     font-family: 'Times New Roman', Times, serif;
     color: rgb(2, 16, 168);
     text-align: center;
@@ -7,10 +7,12 @@ body{
 .cabecera{
     background-color:rgba(195, 119, 20, 0.554);
     height: 1.5rem;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
 .container{
     border: 1px solid rgb(0, 0, 0);
-    background-color: rgb(74, 82, 7);
+    background-color: white;
     width: 70%;
     margin: 0 auto;
     border-radius: 15px;
