@@ -6,12 +6,8 @@ o si la fregamos y no valio
 
 Master 1
 
-<<<<<<< HEAD
-Experimento 2 
-=======
 Experimento 1
 
 
->>>>>>> b6ed907 (comit de experimento 1)
 
 Vamos a aprender como funciona esta aplicacion de control de versiones 
